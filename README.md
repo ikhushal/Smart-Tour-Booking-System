@@ -1,2 +1,2 @@
 # Smart-Tour-Booking-System
-The Smart Tour Booking System is a C++-based application that allows users to browse and select tourism packages, enter their details, and calculate trip costs dynamically.
+The Smart Tour Booking System is a C++-based application that allows users to browse and select tourism packages, enter their details, and calculate trip costs dynamically. Using file handling, the system retrieves tour packages from a text file and provides an interactive interface for booking trips with customizable options like meals, tour guides, and private or group tours. The program ensures a smooth user experience with error handling and the ability to make multiple bookings.
